@@ -1,4 +1,4 @@
-# 👨‍💻 Tianle Xiao (肖天乐)
+# 👨‍💻 Tianle Xiao (Taylor)
 
 > **CS Researcher & Full-Stack Developer** > *Bridging the gap between Theoretical Research and Robust Engineering.*
 
