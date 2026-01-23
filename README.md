@@ -45,8 +45,4 @@
 
 ### 📫 Get in Touch
 - **Email**: [xiaotlinus@gmail.com](mailto:xiaotlinus@gmail.com)
-- **LinkedIn**: [Your Profile Link]
-- **Location**: Based in [Your City/Region]
-
----
-*Generated with ❤️ by Tianle's Personal Automation.*
+- **LinkedIn**: [xiaotianle.top]
